@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://connect.tryambake.com">
+  <a href="https://leadw.tryambake.com">
     <img src="https://img.shields.io/badge/homepage-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Homepage"/>
   </a>
 </div>
